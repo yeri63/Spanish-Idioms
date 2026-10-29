@@ -1,7 +1,7 @@
 # Spanish Idioms
 <div align="center">
   
-![Screenshot of Spanish Idioms](https://github.com/yeri63/Spanish-Idioms/blob/master/spa-idioms.png)
+![Screenshot of Spanish Idioms](spa-idioms.png)
 </div>
 <p>Spanish idioms are non-literal, everyday phrases whose figurative meaning cannot be guessed just by looking at the definitions of the individual words.</p>
 <p>Native speakers use idioms constantly in daily conversation, film, TV, social media, etc. Missing them can lead to confusion or misunderstanding literal translations. Recognizing and using common expressions helps you connect easily with native speakers and feel more at home in Spanish-speaking environments.</p>
